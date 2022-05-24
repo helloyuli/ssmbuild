@@ -11,5 +11,6 @@ public class MathTest {
         System.out.println("hello git1");
         System.out.println("hello git2");
         System.out.println("master Test");
+        System.out.println("hot fix Test");
     }
 }
