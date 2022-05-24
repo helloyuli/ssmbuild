@@ -13,5 +13,6 @@ public class MathTest {
         System.out.println("master Test");
         System.out.println("hot fix Test");
         System.out.println("push Test");
+        System.out.println("pull Test");
     }
 }
