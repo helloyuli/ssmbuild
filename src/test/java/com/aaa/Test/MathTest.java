@@ -7,5 +7,6 @@ public class MathTest {
         int i=1;
         float j=2;
         System.out.println(i/j);
+        System.out.println("hello git");
     }
 }
