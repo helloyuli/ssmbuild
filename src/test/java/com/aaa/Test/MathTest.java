@@ -8,5 +8,7 @@ public class MathTest {
         float j=2;
         System.out.println(i/j);
         System.out.println("hello git");
+        System.out.println("hello git1");
+        System.out.println("hello git2");
     }
 }
